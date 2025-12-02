@@ -34,74 +34,6 @@ EducationWebsite/
 
 ## 🚀 Getting Started
 
-### Local Development
-
-1. **Clone or download** this repository
-2. **Open the project folder**
-   ```bash
-   cd EducationWebsite
-   ```
-3. **Open in browser**
-   - Simply double-click `index.html`, or
-   - Use a local server:
-     ```bash
-     # Using Python 3
-     python3 -m http.server 8000
-     
-     # Using Node.js
-     npx serve
-     ```
-4. **View the website** at `http://localhost:8000` (or directly in your browser)
-
-## 🌐 Deployment Options
-
-### Option 1: Netlify Drop (Easiest)
-1. Go to [netlify.com/drop](https://app.netlify.com/drop)
-2. Drag and drop your project folder
-3. Get instant free hosting with `.netlify.app` domain
-
-### Option 2: GitHub Pages
-1. Create a new GitHub repository
-2. Push your code:
-   ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/EducationWebsite.git
-   git branch -M main
-   git push -u origin main
-   ```
-3. Enable GitHub Pages in repository settings
-4. Access at `https://YOUR_USERNAME.github.io/EducationWebsite`
-
-### Option 3: Vercel
-```bash
-npm install -g vercel
-vercel --prod
-```
-
-### Option 4: Surge
-```bash
-npm install -g surge
-surge --domain your-custom-name.surge.sh
-```
-
-## 📸 Screenshots
-
-[Add screenshots of your website here after deployment]
-
-## 🎨 Customization
-
-### Change Colors
-Edit `style.css` to modify the color scheme. Key colors:
-- Primary Gold: `rgb(255, 187, 0)`
-- Dark Background: `rgb(29, 29, 29)`
-- Hover Effect: `rgb(82, 60, 1)`
-
-### Update Content
-- Modify course information in `index.html`
-- Replace images in the root folder
-- Update contact details in the footer section
-
-### Add New Sections
-Follow the existing Bootstrap grid structure to add new sections while maintaining responsiveness.
 
 ## 📋 Features Breakdown
 
@@ -114,14 +46,6 @@ Follow the existing Bootstrap grid structure to add new sections while maintaini
 - ✅ Upcoming events timeline
 - ✅ Newsletter subscription form
 - ✅ Comprehensive footer with sitemap
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
 ## 📄 License
 

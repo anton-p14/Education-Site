@@ -1,0 +1,223 @@
+.body{
+    overflow-x: hidden;
+}
+.div3{
+    background-image: url("./914063-1920x1080-desktop-full-hd-library-wallpaper-photo.jpg");
+    height: 550px;
+}
+.q{
+    position: relative;
+    top: 22px;
+    right: 30px;
+}
+.div2{
+    background-color: rgb(255, 187, 0);
+    width: 230px;
+    height:100px;
+    position: relative;
+    left: 1030px;
+    bottom: 50px;
+}
+#e{
+    font-weight: 600;
+    position: relative;
+    top: 40px;
+    left: 80px;
+    color: white;
+}
+#div1{
+    position: relative;
+    right: 40px;
+}
+nav{
+    word-spacing: 50px;
+    height: 100px;
+    width: 950px;
+    text-align: center;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    font-weight: 600;
+}
+#r{
+    position: relative;
+    left: 1060px;
+    bottom: 115px;
+}
+.x{
+    background-color: black;
+}
+.y{
+    background-color: black;
+}
+.z{
+    background-color: black;
+}
+#w{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 35px;
+    letter-spacing: 2px;
+    position: relative;
+    top: 7px;
+}
+.a{
+    color: black;
+    text-decoration-line: none;
+}
+.a:hover{
+    color: orange;
+}
+#t{
+    font-size: 60px;
+    font-weight: 550;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 70px;
+    animation: mymove 1s;
+}
+    @keyframes mymove {
+    0% {font-size: 30px;}
+    100% {font-size: 60px;}
+    }
+h3{
+    font-family: "Acme", sans-serif;
+    
+}
+.div11{
+    background-color: rgb(29, 29, 29);
+    width: 350px;
+    height: 160px;
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.div12{
+    background-color: rgb(29, 29, 29);
+    width: 350px;
+    height: 160px;
+    position: relative;
+    left: 525px;
+    bottom: 60px;
+}
+.div13{
+    background-color: rgb(29, 29, 29);
+    width: 350px;
+    height: 160px;
+    position: relative;
+    left: 900px;
+    bottom: 220px;
+}
+.div11:hover{
+    background-color: rgb(82, 60, 1)
+}
+.div12:hover{
+    background-color: rgb(82, 60, 1)
+}
+.div13:hover{
+    background-color: rgb(82, 60, 1)
+}
+.design{
+    border: 1px transparent;
+    width: 352px;
+    height: 420px;
+    position: absolute;
+    left: 100px;
+
+}
+.designn{
+    border: 1px transparent;
+    width: 352px;
+    height: 420px;
+    position: absolute;
+    left: 500px;
+}
+.designnn{
+    border: 1px transparent;
+    width: 352px;
+    height: 420px;
+    position: absolute;
+    left: 900px;
+}
+
+.design1{
+    text-align: center;
+    padding: 28px;
+    background-color: rgb(235, 235, 235);
+}
+.box1{
+    border: 1px transparent;
+    height: 690px;
+    width: 645px;
+    padding: 95px;
+    background-color: rgb(255, 187, 0);
+    align-content: center;
+    position: absolute;
+    top: 1500px;
+}
+.box2{
+    border: 1px transparent;
+    height: 690px;
+    width: 617px;
+    background-image: url("./image-680x690.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    /* filter: blur(2px); */
+    position: absolute;
+    top: 1500px;
+    left: 645px;
+    
+    
+}
+.box2-text{
+    text-align: center;
+    position: absolute;
+    top: 1670px;
+    left: 705px;
+}
+.bo:hover{
+    outline: 3px solid rgb(255, 187, 0);
+}
+.popular{
+    position: relative;
+    right: 40px;
+}
+.xyz{
+    color: grey;
+}
+.down{
+    background-image: url("./graduate_full.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+    filter: brightness(0.3);
+}
+.din{
+    position: absolute;
+    bottom: 10px;
+    top: 3060px;
+}
+.jan{
+    border: 2px solid rgb(255, 187, 0);
+    color: rgb(255, 187, 0);
+    width: 120px;
+    height: 115px;
+}
+#ww{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+.abc{
+    text-decoration: underline none;
+}
+.zx:hover{
+    color: orange;
+}
+.last{
+    word-spacing: 25px;
+    position: absolute;
+    top: 5610px;
+    bottom: 50px;
+    left: 980px;
+}

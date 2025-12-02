@@ -1,6 +1,7 @@
 # 🎓 Education Website
 
 A modern, responsive education platform website built with HTML, CSS, and Bootstrap. This website showcases online courses, library resources, and educational services with a clean and professional design.
+http://education-website-anton-p.surge.sh/
 
 ## ✨ Features
 
